@@ -5,7 +5,7 @@ from pathlib import Path
 from utils import clean_data, create_category_mapping, aggregate_expenses
 
 RAW_PATH = Path("../data/raw/expenses.csv")
-PROCESSED_PATH = Path("../data/processed/cleaned_expenses.csv")
+PROCESSED_PATH = Path("data/processed/expenses_processed.csv")
 
 
 def main():
