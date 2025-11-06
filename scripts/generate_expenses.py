@@ -17,15 +17,15 @@ establishments = [
 # Generate random dates (last 30 days)
 def random_date():
     today = datetime.today()
-    delta_days = random.randint(0, 120)
+    delta_days = random.randint(0, 365)
     return (today - timedelta(days=delta_days)).strftime("%Y-%m-%d")
 
 # Generate random amounts
 def random_amount():
-    return round(random.uniform(5.0, 200.0), 2)
+    return round(random.uniform(5.0, 100.0), 2)
 
 # Generate N fake expense entries
-def generate_expenses(n=100):
+def generate_expenses(n=1000):
     data = {
         "date": [random_date() for _ in range(n)],
         "establishment": [random.choice(establishments) for _ in range(n)],
@@ -34,7 +34,7 @@ def generate_expenses(n=100):
     return pd.DataFrame(data)
 
 def main():
-    df = generate_expenses(100)
+    df = generate_expenses(1000)
     output_path = RAW_DIR / "expenses.csv"
     df.to_csv(output_path, index=False)
     print(f"✅ Generated {len(df)} fake expense records at {output_path}")
