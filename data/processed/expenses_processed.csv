@@ -4,12 +4,12 @@ date,establishment,amount,category
 2025-01-17,Jaú Serve,31.09,Supermarket
 2025-03-06,Padaria Central,31.73,Others
 2025-10-09,Jaú Serve,65.35,Supermarket
-2024-12-16,Farmacia Droga Raia,13.2,Drugstore
+2024-12-16,Farmacia Droga Raia,13.2,Others
 2024-12-14,Drogaria São Paulo,38.53,Drugstore
 2025-09-13,Drogaria São Paulo,65.51,Drugstore
 2025-03-08,99Pop,81.47,Transportation
 2024-12-17,Posto Shell,33.65,Others
-2024-12-19,Cinema Lumière,80.9,Entertainment
+2024-12-19,Cinema Lumière,80.9,Others
 2025-05-24,Uber,21.15,Transportation
 2025-04-09,Uber,76.76,Transportation
 2024-12-12,99Pop,87.43,Transportation
@@ -22,7 +22,7 @@ date,establishment,amount,category
 2025-10-27,99Pop,62.67,Transportation
 2025-08-22,Drogaria São Paulo,19.73,Drugstore
 2025-01-12,Padaria Central,79.6,Others
-2024-11-15,Cinema Lumière,41.98,Entertainment
+2024-11-15,Cinema Lumière,41.98,Others
 2024-11-17,Drogaria São Paulo,47.34,Drugstore
 2025-08-10,Drogaria São Paulo,72.3,Drugstore
 2025-05-31,Uber,48.42,Transportation
@@ -30,14 +30,14 @@ date,establishment,amount,category
 2025-09-14,Drogaria São Paulo,63.35,Drugstore
 2025-01-06,Jaú Serve,68.55,Supermarket
 2025-03-22,Drogaria São Paulo,61.06,Drugstore
-2025-02-06,Onibus Urbano,51.06,Transportation
-2025-08-26,Farmacia Droga Raia,72.03,Drugstore
+2025-02-06,Onibus Urbano,51.06,Others
+2025-08-26,Farmacia Droga Raia,72.03,Others
 2024-12-10,99Pop,73.49,Transportation
 2025-08-29,Jaú Serve,38.88,Supermarket
 2024-11-18,Padaria Central,60.9,Others
 2025-03-22,Restaurante do Zé,64.86,Others
 2025-01-07,Drogaria São Paulo,26.63,Drugstore
-2025-02-03,Farmacia Droga Raia,56.17,Drugstore
+2025-02-03,Farmacia Droga Raia,56.17,Others
 2025-04-07,Posto Shell,89.03,Others
 2025-01-25,Jaú Serve,16.34,Supermarket
 2025-02-05,Padaria Central,50.28,Others
@@ -46,68 +46,68 @@ date,establishment,amount,category
 2024-11-10,99Pop,5.53,Transportation
 2025-02-21,Posto Shell,60.03,Others
 2025-01-15,99Pop,65.27,Transportation
-2025-08-04,Onibus Urbano,18.12,Transportation
+2025-08-04,Onibus Urbano,18.12,Others
 2025-06-17,Drogaria São Paulo,34.92,Drugstore
 2025-03-06,Uber,20.39,Transportation
 2025-10-23,Drogaria São Paulo,58.9,Drugstore
 2025-06-16,Uber,22.6,Transportation
 2025-02-19,Savegnago,30.2,Supermarket
-2025-10-31,Onibus Urbano,48.45,Transportation
-2025-08-31,Onibus Urbano,76.25,Transportation
+2025-10-31,Onibus Urbano,48.45,Others
+2025-08-31,Onibus Urbano,76.25,Others
 2025-10-02,Drogaria São Paulo,33.25,Drugstore
-2025-02-15,Cinema Lumière,96.99,Entertainment
+2025-02-15,Cinema Lumière,96.99,Others
 2025-08-30,99Pop,35.54,Transportation
 2025-03-27,Savegnago,86.74,Supermarket
 2025-01-14,Padaria Central,39.73,Others
 2025-03-31,Restaurante do Zé,93.79,Others
 2025-01-02,Restaurante do Zé,11.08,Others
 2025-09-23,Restaurante do Zé,69.51,Others
-2025-06-01,Farmacia Droga Raia,86.22,Drugstore
-2024-12-29,Onibus Urbano,25.5,Transportation
-2025-08-16,Onibus Urbano,30.44,Transportation
+2025-06-01,Farmacia Droga Raia,86.22,Others
+2024-12-29,Onibus Urbano,25.5,Others
+2025-08-16,Onibus Urbano,30.44,Others
 2025-09-11,Restaurante do Zé,12.26,Others
 2024-11-11,Posto Shell,71.81,Others
 2025-09-12,Uber,88.36,Transportation
 2025-08-30,Drogaria São Paulo,81.42,Drugstore
-2025-10-22,Farmacia Droga Raia,19.04,Drugstore
+2025-10-22,Farmacia Droga Raia,19.04,Others
 2025-01-16,Uber,41.53,Transportation
 2025-09-16,Uber,6.7,Transportation
-2025-07-29,Farmacia Droga Raia,6.32,Drugstore
+2025-07-29,Farmacia Droga Raia,6.32,Others
 2025-08-28,Drogaria São Paulo,54.15,Drugstore
-2025-05-21,Onibus Urbano,86.18,Transportation
-2025-04-25,Onibus Urbano,62.89,Transportation
-2025-06-25,Farmacia Droga Raia,61.62,Drugstore
-2025-02-08,Farmacia Droga Raia,54.86,Drugstore
+2025-05-21,Onibus Urbano,86.18,Others
+2025-04-25,Onibus Urbano,62.89,Others
+2025-06-25,Farmacia Droga Raia,61.62,Others
+2025-02-08,Farmacia Droga Raia,54.86,Others
 2025-10-21,Savegnago,90.11,Supermarket
 2024-11-07,Uber,95.48,Transportation
 2025-06-08,Restaurante do Zé,29.56,Others
 2025-07-24,Restaurante do Zé,7.3,Others
 2024-11-11,Padaria Central,22.53,Others
 2025-06-24,Posto Shell,7.28,Others
-2025-05-05,Farmacia Droga Raia,57.99,Drugstore
+2025-05-05,Farmacia Droga Raia,57.99,Others
 2025-04-13,Posto Shell,28.05,Others
 2025-06-13,99Pop,85.54,Transportation
-2025-06-24,Cinema Lumière,7.63,Entertainment
+2025-06-24,Cinema Lumière,7.63,Others
 2024-12-09,Drogaria São Paulo,83.55,Drugstore
 2024-11-11,99Pop,17.79,Transportation
 2024-11-06,Padaria Central,66.01,Others
-2025-02-25,Onibus Urbano,90.73,Transportation
+2025-02-25,Onibus Urbano,90.73,Others
 2025-07-29,Jaú Serve,91.96,Supermarket
-2025-04-25,Cinema Lumière,20.02,Entertainment
+2025-04-25,Cinema Lumière,20.02,Others
 2025-06-18,Padaria Central,25.59,Others
 2025-07-14,99Pop,90.49,Transportation
-2025-09-06,Farmacia Droga Raia,46.62,Drugstore
-2025-01-02,Farmacia Droga Raia,53.47,Drugstore
+2025-09-06,Farmacia Droga Raia,46.62,Others
+2025-01-02,Farmacia Droga Raia,53.47,Others
 2025-06-04,Padaria Central,57.54,Others
 2025-06-07,99Pop,32.22,Transportation
 2025-08-23,Uber,49.58,Transportation
 2025-03-10,Restaurante do Zé,28.17,Others
 2025-03-22,Padaria Central,16.95,Others
 2024-12-29,99Pop,92.09,Transportation
-2025-03-23,Onibus Urbano,29.93,Transportation
-2025-08-06,Cinema Lumière,32.95,Entertainment
+2025-03-23,Onibus Urbano,29.93,Others
+2025-08-06,Cinema Lumière,32.95,Others
 2025-07-16,Restaurante do Zé,54.64,Others
-2025-08-11,Cinema Lumière,52.77,Entertainment
+2025-08-11,Cinema Lumière,52.77,Others
 2025-08-28,99Pop,36.67,Transportation
 2024-12-12,99Pop,11.44,Transportation
 2024-11-04,Savegnago,13.82,Supermarket
@@ -122,55 +122,55 @@ date,establishment,amount,category
 2024-11-11,Posto Shell,35.27,Others
 2025-09-27,Padaria Central,28.4,Others
 2025-06-02,Padaria Central,11.6,Others
-2025-02-28,Onibus Urbano,71.78,Transportation
+2025-02-28,Onibus Urbano,71.78,Others
 2025-10-26,Drogaria São Paulo,92.84,Drugstore
 2025-04-22,Drogaria São Paulo,6.6,Drugstore
 2025-01-31,Savegnago,16.14,Supermarket
 2024-12-05,Padaria Central,60.57,Others
-2025-06-24,Farmacia Droga Raia,54.89,Drugstore
-2025-08-14,Farmacia Droga Raia,15.36,Drugstore
-2025-05-20,Cinema Lumière,67.21,Entertainment
+2025-06-24,Farmacia Droga Raia,54.89,Others
+2025-08-14,Farmacia Droga Raia,15.36,Others
+2025-05-20,Cinema Lumière,67.21,Others
 2024-11-06,99Pop,88.86,Transportation
 2025-09-19,Savegnago,37.18,Supermarket
 2025-01-06,Jaú Serve,97.41,Supermarket
 2025-04-22,Padaria Central,67.25,Others
-2025-06-07,Cinema Lumière,11.2,Entertainment
+2025-06-07,Cinema Lumière,11.2,Others
 2025-07-16,Posto Shell,54.63,Others
-2025-08-29,Cinema Lumière,24.69,Entertainment
-2025-04-29,Onibus Urbano,7.57,Transportation
+2025-08-29,Cinema Lumière,24.69,Others
+2025-04-29,Onibus Urbano,7.57,Others
 2025-08-04,Posto Shell,23.99,Others
 2025-03-14,Uber,40.77,Transportation
-2025-06-26,Farmacia Droga Raia,29.27,Drugstore
+2025-06-26,Farmacia Droga Raia,29.27,Others
 2025-02-04,Posto Shell,26.1,Others
 2025-08-22,Savegnago,50.51,Supermarket
 2025-06-09,99Pop,31.04,Transportation
-2025-05-26,Farmacia Droga Raia,63.8,Drugstore
-2025-04-08,Farmacia Droga Raia,18.34,Drugstore
+2025-05-26,Farmacia Droga Raia,63.8,Others
+2025-04-08,Farmacia Droga Raia,18.34,Others
 2025-07-23,Jaú Serve,60.06,Supermarket
-2025-08-10,Farmacia Droga Raia,60.45,Drugstore
+2025-08-10,Farmacia Droga Raia,60.45,Others
 2025-10-03,Drogaria São Paulo,40.11,Drugstore
 2025-03-28,99Pop,21.69,Transportation
 2025-04-05,Restaurante do Zé,84.52,Others
 2024-11-05,99Pop,36.27,Transportation
 2025-02-28,Uber,47.19,Transportation
-2024-12-01,Cinema Lumière,7.01,Entertainment
+2024-12-01,Cinema Lumière,7.01,Others
 2024-11-03,Restaurante do Zé,17.26,Others
-2025-10-23,Onibus Urbano,94.72,Transportation
+2025-10-23,Onibus Urbano,94.72,Others
 2024-12-22,99Pop,99.47,Transportation
-2025-02-06,Cinema Lumière,25.12,Entertainment
-2025-03-06,Onibus Urbano,91.78,Transportation
-2025-10-05,Cinema Lumière,40.76,Entertainment
+2025-02-06,Cinema Lumière,25.12,Others
+2025-03-06,Onibus Urbano,91.78,Others
+2025-10-05,Cinema Lumière,40.76,Others
 2025-01-21,Uber,49.93,Transportation
 2025-03-25,Jaú Serve,26.26,Supermarket
 2025-03-27,Padaria Central,77.38,Others
 2025-03-15,Posto Shell,54.58,Others
 2025-03-05,Drogaria São Paulo,9.49,Drugstore
-2025-07-24,Farmacia Droga Raia,26.96,Drugstore
+2025-07-24,Farmacia Droga Raia,26.96,Others
 2025-05-29,Uber,85.61,Transportation
 2025-04-24,Padaria Central,83.15,Others
 2025-02-14,Savegnago,40.4,Supermarket
-2024-11-15,Onibus Urbano,40.34,Transportation
-2024-11-13,Onibus Urbano,79.13,Transportation
+2024-11-15,Onibus Urbano,40.34,Others
+2024-11-13,Onibus Urbano,79.13,Others
 2025-04-20,99Pop,39.85,Transportation
 2025-01-30,Uber,95.28,Transportation
 2025-01-10,Uber,80.54,Transportation
@@ -180,13 +180,13 @@ date,establishment,amount,category
 2024-12-06,Drogaria São Paulo,90.93,Drugstore
 2025-08-27,Jaú Serve,97.33,Supermarket
 2025-07-06,Jaú Serve,45.07,Supermarket
-2025-01-18,Farmacia Droga Raia,96.2,Drugstore
+2025-01-18,Farmacia Droga Raia,96.2,Others
 2025-02-28,Posto Shell,48.76,Others
-2025-08-28,Cinema Lumière,50.43,Entertainment
+2025-08-28,Cinema Lumière,50.43,Others
 2025-03-25,Jaú Serve,45.89,Supermarket
 2025-05-15,Drogaria São Paulo,67.8,Drugstore
-2025-09-07,Farmacia Droga Raia,25.86,Drugstore
-2025-03-20,Cinema Lumière,29.3,Entertainment
+2025-09-07,Farmacia Droga Raia,25.86,Others
+2025-03-20,Cinema Lumière,29.3,Others
 2025-01-17,Padaria Central,98.76,Others
 2025-05-02,Posto Shell,31.31,Others
 2025-10-30,99Pop,94.54,Transportation
@@ -194,23 +194,23 @@ date,establishment,amount,category
 2025-07-22,Savegnago,8.21,Supermarket
 2025-04-23,Restaurante do Zé,25.92,Others
 2025-08-07,Drogaria São Paulo,36.13,Drugstore
-2025-01-21,Cinema Lumière,54.52,Entertainment
-2025-02-14,Farmacia Droga Raia,37.57,Drugstore
+2025-01-21,Cinema Lumière,54.52,Others
+2025-02-14,Farmacia Droga Raia,37.57,Others
 2025-03-25,99Pop,36.95,Transportation
 2025-04-26,Savegnago,32.63,Supermarket
-2025-03-18,Cinema Lumière,83.83,Entertainment
-2025-08-10,Onibus Urbano,38.95,Transportation
+2025-03-18,Cinema Lumière,83.83,Others
+2025-08-10,Onibus Urbano,38.95,Others
 2025-02-21,Drogaria São Paulo,50.31,Drugstore
 2025-05-02,Jaú Serve,96.9,Supermarket
 2025-09-18,Savegnago,77.59,Supermarket
-2025-06-12,Farmacia Droga Raia,44.42,Drugstore
+2025-06-12,Farmacia Droga Raia,44.42,Others
 2025-07-26,Restaurante do Zé,54.84,Others
 2025-09-13,Restaurante do Zé,69.59,Others
 2025-09-11,Restaurante do Zé,32.61,Others
 2024-12-05,Drogaria São Paulo,44.53,Drugstore
 2025-06-08,Posto Shell,32.25,Others
-2025-02-21,Onibus Urbano,81.44,Transportation
-2025-10-02,Onibus Urbano,70.06,Transportation
+2025-02-21,Onibus Urbano,81.44,Others
+2025-10-02,Onibus Urbano,70.06,Others
 2025-05-06,Drogaria São Paulo,99.35,Drugstore
 2025-02-06,Padaria Central,31.37,Others
 2024-11-12,Posto Shell,67.64,Others
@@ -226,34 +226,34 @@ date,establishment,amount,category
 2025-09-08,Drogaria São Paulo,52.59,Drugstore
 2025-04-26,Uber,5.96,Transportation
 2025-05-25,Drogaria São Paulo,65.46,Drugstore
-2024-12-24,Farmacia Droga Raia,49.88,Drugstore
+2024-12-24,Farmacia Droga Raia,49.88,Others
 2025-05-02,Drogaria São Paulo,86.86,Drugstore
 2025-05-19,Jaú Serve,16.51,Supermarket
-2025-04-08,Farmacia Droga Raia,33.8,Drugstore
+2025-04-08,Farmacia Droga Raia,33.8,Others
 2025-07-06,Uber,92.15,Transportation
 2025-06-29,99Pop,21.8,Transportation
 2025-07-11,Savegnago,46.13,Supermarket
 2024-11-16,Uber,50.73,Transportation
-2025-05-03,Farmacia Droga Raia,83.0,Drugstore
+2025-05-03,Farmacia Droga Raia,83.0,Others
 2025-02-03,Jaú Serve,58.32,Supermarket
 2025-03-31,Drogaria São Paulo,99.54,Drugstore
-2025-11-01,Onibus Urbano,89.99,Transportation
+2025-11-01,Onibus Urbano,89.99,Others
 2025-04-06,Restaurante do Zé,30.84,Others
-2025-09-25,Farmacia Droga Raia,35.19,Drugstore
-2024-11-14,Onibus Urbano,96.22,Transportation
-2025-06-06,Onibus Urbano,61.07,Transportation
-2025-03-27,Farmacia Droga Raia,91.48,Drugstore
+2025-09-25,Farmacia Droga Raia,35.19,Others
+2024-11-14,Onibus Urbano,96.22,Others
+2025-06-06,Onibus Urbano,61.07,Others
+2025-03-27,Farmacia Droga Raia,91.48,Others
 2024-11-04,Posto Shell,22.95,Others
 2025-09-20,Uber,61.82,Transportation
-2025-05-19,Cinema Lumière,36.4,Entertainment
-2025-11-01,Onibus Urbano,48.78,Transportation
+2025-05-19,Cinema Lumière,36.4,Others
+2025-11-01,Onibus Urbano,48.78,Others
 2025-06-21,99Pop,30.2,Transportation
-2025-07-22,Onibus Urbano,40.11,Transportation
-2025-09-30,Cinema Lumière,48.12,Entertainment
+2025-07-22,Onibus Urbano,40.11,Others
+2025-09-30,Cinema Lumière,48.12,Others
 2025-03-07,99Pop,45.17,Transportation
 2024-12-02,Restaurante do Zé,19.89,Others
 2025-04-25,Uber,90.66,Transportation
-2025-06-28,Farmacia Droga Raia,66.95,Drugstore
+2025-06-28,Farmacia Droga Raia,66.95,Others
 2025-02-10,Drogaria São Paulo,67.79,Drugstore
 2025-09-12,Savegnago,78.96,Supermarket
 2025-01-15,Restaurante do Zé,42.82,Others
@@ -263,20 +263,20 @@ date,establishment,amount,category
 2025-02-28,Jaú Serve,83.28,Supermarket
 2025-10-14,Drogaria São Paulo,32.75,Drugstore
 2025-01-18,Padaria Central,59.25,Others
-2025-06-24,Onibus Urbano,89.55,Transportation
-2025-04-08,Onibus Urbano,14.41,Transportation
+2025-06-24,Onibus Urbano,89.55,Others
+2025-04-08,Onibus Urbano,14.41,Others
 2025-06-20,Savegnago,65.16,Supermarket
 2025-03-30,Posto Shell,95.93,Others
-2025-10-28,Onibus Urbano,65.1,Transportation
-2025-07-01,Farmacia Droga Raia,98.59,Drugstore
-2025-04-14,Farmacia Droga Raia,12.74,Drugstore
+2025-10-28,Onibus Urbano,65.1,Others
+2025-07-01,Farmacia Droga Raia,98.59,Others
+2025-04-14,Farmacia Droga Raia,12.74,Others
 2025-10-02,Posto Shell,55.38,Others
 2025-06-02,Padaria Central,86.66,Others
 2025-09-24,Posto Shell,38.18,Others
-2025-06-26,Onibus Urbano,60.63,Transportation
+2025-06-26,Onibus Urbano,60.63,Others
 2024-11-24,Padaria Central,13.05,Others
 2025-10-23,Drogaria São Paulo,44.37,Drugstore
-2024-12-04,Farmacia Droga Raia,9.83,Drugstore
+2024-12-04,Farmacia Droga Raia,9.83,Others
 2025-05-11,Savegnago,50.36,Supermarket
 2025-07-07,Restaurante do Zé,53.16,Others
 2025-06-22,Drogaria São Paulo,89.08,Drugstore
@@ -284,22 +284,22 @@ date,establishment,amount,category
 2025-03-08,Drogaria São Paulo,28.01,Drugstore
 2025-02-07,Restaurante do Zé,38.62,Others
 2025-05-30,Jaú Serve,45.47,Supermarket
-2025-04-27,Farmacia Droga Raia,94.59,Drugstore
+2025-04-27,Farmacia Droga Raia,94.59,Others
 2025-01-30,99Pop,52.26,Transportation
 2025-05-19,Posto Shell,25.47,Others
 2025-08-12,Drogaria São Paulo,6.06,Drugstore
 2024-12-14,Jaú Serve,88.86,Supermarket
 2025-09-17,Jaú Serve,75.16,Supermarket
 2024-12-29,Savegnago,19.93,Supermarket
-2025-08-08,Farmacia Droga Raia,91.26,Drugstore
+2025-08-08,Farmacia Droga Raia,91.26,Others
 2025-02-15,Padaria Central,53.37,Others
 2025-10-25,Drogaria São Paulo,44.8,Drugstore
 2025-01-07,Posto Shell,30.98,Others
-2025-09-16,Cinema Lumière,38.91,Entertainment
-2024-11-24,Farmacia Droga Raia,45.22,Drugstore
+2025-09-16,Cinema Lumière,38.91,Others
+2024-11-24,Farmacia Droga Raia,45.22,Others
 2025-03-03,Posto Shell,80.11,Others
 2025-07-20,Padaria Central,61.82,Others
-2025-04-29,Onibus Urbano,55.26,Transportation
+2025-04-29,Onibus Urbano,55.26,Others
 2025-05-14,Uber,6.13,Transportation
 2024-12-26,Drogaria São Paulo,37.59,Drugstore
 2025-04-19,Restaurante do Zé,68.68,Others
@@ -307,12 +307,12 @@ date,establishment,amount,category
 2024-11-18,Uber,52.09,Transportation
 2025-02-07,Uber,76.57,Transportation
 2025-10-26,Jaú Serve,42.46,Supermarket
-2025-04-07,Farmacia Droga Raia,14.74,Drugstore
+2025-04-07,Farmacia Droga Raia,14.74,Others
 2025-10-03,Drogaria São Paulo,92.08,Drugstore
 2025-05-30,Padaria Central,7.47,Others
 2025-05-26,99Pop,84.77,Transportation
 2024-12-22,Padaria Central,89.93,Others
-2025-06-29,Cinema Lumière,65.38,Entertainment
+2025-06-29,Cinema Lumière,65.38,Others
 2025-10-09,Restaurante do Zé,54.93,Others
 2025-07-08,Drogaria São Paulo,10.13,Drugstore
 2025-02-10,Posto Shell,28.67,Others
@@ -321,17 +321,17 @@ date,establishment,amount,category
 2025-05-09,99Pop,34.94,Transportation
 2025-08-29,Uber,66.12,Transportation
 2025-04-18,Uber,85.82,Transportation
-2025-04-27,Cinema Lumière,63.16,Entertainment
-2025-02-15,Onibus Urbano,69.02,Transportation
-2025-06-06,Farmacia Droga Raia,91.51,Drugstore
-2025-01-07,Farmacia Droga Raia,22.23,Drugstore
+2025-04-27,Cinema Lumière,63.16,Others
+2025-02-15,Onibus Urbano,69.02,Others
+2025-06-06,Farmacia Droga Raia,91.51,Others
+2025-01-07,Farmacia Droga Raia,22.23,Others
 2025-04-05,Jaú Serve,27.54,Supermarket
 2025-02-23,99Pop,20.0,Transportation
 2025-04-23,Posto Shell,64.41,Others
 2025-06-05,Drogaria São Paulo,32.35,Drugstore
-2025-02-14,Onibus Urbano,20.2,Transportation
-2025-09-27,Onibus Urbano,56.28,Transportation
-2024-12-06,Onibus Urbano,61.8,Transportation
+2025-02-14,Onibus Urbano,20.2,Others
+2025-09-27,Onibus Urbano,56.28,Others
+2024-12-06,Onibus Urbano,61.8,Others
 2025-07-08,99Pop,85.43,Transportation
 2025-03-26,Padaria Central,60.18,Others
 2025-02-14,Savegnago,45.92,Supermarket
@@ -341,9 +341,9 @@ date,establishment,amount,category
 2025-05-26,Jaú Serve,26.08,Supermarket
 2025-03-28,Savegnago,52.34,Supermarket
 2025-10-23,Savegnago,97.25,Supermarket
-2025-07-25,Onibus Urbano,95.9,Transportation
-2025-08-19,Onibus Urbano,63.89,Transportation
-2025-07-18,Farmacia Droga Raia,39.03,Drugstore
+2025-07-25,Onibus Urbano,95.9,Others
+2025-08-19,Onibus Urbano,63.89,Others
+2025-07-18,Farmacia Droga Raia,39.03,Others
 2025-08-20,Restaurante do Zé,50.99,Others
 2025-05-23,99Pop,10.84,Transportation
 2024-11-02,Savegnago,91.58,Supermarket
@@ -355,68 +355,68 @@ date,establishment,amount,category
 2025-02-22,Posto Shell,21.97,Others
 2025-02-01,99Pop,67.12,Transportation
 2025-09-25,Padaria Central,34.43,Others
-2025-09-21,Cinema Lumière,51.05,Entertainment
+2025-09-21,Cinema Lumière,51.05,Others
 2025-09-01,Restaurante do Zé,40.66,Others
 2025-10-23,Posto Shell,68.26,Others
-2025-09-07,Cinema Lumière,93.83,Entertainment
-2025-05-12,Farmacia Droga Raia,55.95,Drugstore
-2025-04-03,Cinema Lumière,47.68,Entertainment
-2025-03-24,Cinema Lumière,57.07,Entertainment
-2025-04-11,Cinema Lumière,72.36,Entertainment
+2025-09-07,Cinema Lumière,93.83,Others
+2025-05-12,Farmacia Droga Raia,55.95,Others
+2025-04-03,Cinema Lumière,47.68,Others
+2025-03-24,Cinema Lumière,57.07,Others
+2025-04-11,Cinema Lumière,72.36,Others
 2025-09-14,Savegnago,64.78,Supermarket
-2025-03-11,Onibus Urbano,81.1,Transportation
-2025-09-17,Farmacia Droga Raia,81.53,Drugstore
+2025-03-11,Onibus Urbano,81.1,Others
+2025-09-17,Farmacia Droga Raia,81.53,Others
 2025-04-28,Restaurante do Zé,81.84,Others
 2024-11-17,Restaurante do Zé,32.05,Others
 2024-12-02,Jaú Serve,27.07,Supermarket
 2025-09-20,Drogaria São Paulo,8.68,Drugstore
 2025-04-29,Restaurante do Zé,42.25,Others
-2024-11-11,Cinema Lumière,19.22,Entertainment
+2024-11-11,Cinema Lumière,19.22,Others
 2025-02-02,Padaria Central,29.32,Others
-2025-05-09,Farmacia Droga Raia,74.29,Drugstore
+2025-05-09,Farmacia Droga Raia,74.29,Others
 2025-09-09,Padaria Central,95.93,Others
 2025-02-27,Padaria Central,73.23,Others
 2025-08-14,Drogaria São Paulo,55.05,Drugstore
 2025-03-23,Posto Shell,57.95,Others
-2025-04-19,Cinema Lumière,25.18,Entertainment
-2025-03-07,Onibus Urbano,78.62,Transportation
+2025-04-19,Cinema Lumière,25.18,Others
+2025-03-07,Onibus Urbano,78.62,Others
 2024-12-07,99Pop,20.49,Transportation
-2025-07-07,Cinema Lumière,14.34,Entertainment
+2025-07-07,Cinema Lumière,14.34,Others
 2025-07-29,Padaria Central,60.79,Others
 2025-02-18,Uber,32.71,Transportation
-2025-06-05,Farmacia Droga Raia,58.63,Drugstore
+2025-06-05,Farmacia Droga Raia,58.63,Others
 2025-03-26,Savegnago,70.1,Supermarket
 2025-02-17,99Pop,68.55,Transportation
-2025-04-15,Cinema Lumière,24.71,Entertainment
-2025-08-01,Onibus Urbano,18.43,Transportation
-2025-10-02,Farmacia Droga Raia,8.12,Drugstore
-2025-03-01,Farmacia Droga Raia,16.43,Drugstore
-2025-10-25,Onibus Urbano,31.14,Transportation
+2025-04-15,Cinema Lumière,24.71,Others
+2025-08-01,Onibus Urbano,18.43,Others
+2025-10-02,Farmacia Droga Raia,8.12,Others
+2025-03-01,Farmacia Droga Raia,16.43,Others
+2025-10-25,Onibus Urbano,31.14,Others
 2025-02-23,Padaria Central,89.8,Others
 2025-04-24,99Pop,50.66,Transportation
 2025-03-21,Savegnago,85.84,Supermarket
 2025-09-19,Uber,23.78,Transportation
-2025-06-16,Cinema Lumière,99.63,Entertainment
+2025-06-16,Cinema Lumière,99.63,Others
 2025-10-17,Restaurante do Zé,28.79,Others
 2024-12-05,Drogaria São Paulo,56.08,Drugstore
-2025-05-02,Farmacia Droga Raia,36.7,Drugstore
+2025-05-02,Farmacia Droga Raia,36.7,Others
 2024-11-22,Savegnago,87.15,Supermarket
 2025-09-03,Restaurante do Zé,96.22,Others
-2025-04-01,Cinema Lumière,55.29,Entertainment
+2025-04-01,Cinema Lumière,55.29,Others
 2024-12-01,Restaurante do Zé,71.06,Others
 2025-01-01,99Pop,84.49,Transportation
 2025-09-11,Posto Shell,23.37,Others
-2025-04-29,Cinema Lumière,25.83,Entertainment
+2025-04-29,Cinema Lumière,25.83,Others
 2025-08-09,Uber,14.87,Transportation
-2025-07-02,Onibus Urbano,38.83,Transportation
+2025-07-02,Onibus Urbano,38.83,Others
 2025-06-11,99Pop,17.34,Transportation
-2025-07-20,Onibus Urbano,17.42,Transportation
-2025-05-27,Cinema Lumière,75.52,Entertainment
-2025-09-25,Onibus Urbano,52.71,Transportation
+2025-07-20,Onibus Urbano,17.42,Others
+2025-05-27,Cinema Lumière,75.52,Others
+2025-09-25,Onibus Urbano,52.71,Others
 2025-04-08,Uber,44.13,Transportation
 2025-06-23,99Pop,7.44,Transportation
 2025-01-26,Posto Shell,87.25,Others
-2025-05-07,Cinema Lumière,76.89,Entertainment
+2025-05-07,Cinema Lumière,76.89,Others
 2024-11-18,Savegnago,53.39,Supermarket
 2025-04-18,Uber,37.13,Transportation
 2025-10-26,Drogaria São Paulo,63.44,Drugstore
@@ -430,26 +430,26 @@ date,establishment,amount,category
 2025-07-20,Drogaria São Paulo,86.92,Drugstore
 2025-03-25,Restaurante do Zé,28.76,Others
 2025-10-20,Savegnago,74.18,Supermarket
-2025-07-24,Farmacia Droga Raia,28.83,Drugstore
-2025-08-10,Cinema Lumière,7.39,Entertainment
-2025-09-23,Farmacia Droga Raia,14.7,Drugstore
-2025-09-29,Cinema Lumière,25.82,Entertainment
+2025-07-24,Farmacia Droga Raia,28.83,Others
+2025-08-10,Cinema Lumière,7.39,Others
+2025-09-23,Farmacia Droga Raia,14.7,Others
+2025-09-29,Cinema Lumière,25.82,Others
 2025-02-25,Uber,57.92,Transportation
 2025-09-18,Savegnago,11.89,Supermarket
 2024-12-04,Uber,19.49,Transportation
 2025-03-29,Padaria Central,94.18,Others
 2025-05-23,99Pop,10.93,Transportation
 2025-05-02,Uber,6.05,Transportation
-2025-05-27,Onibus Urbano,73.65,Transportation
+2025-05-27,Onibus Urbano,73.65,Others
 2025-05-15,Savegnago,82.06,Supermarket
 2025-06-20,Padaria Central,84.76,Others
 2025-03-09,Restaurante do Zé,40.97,Others
-2025-05-08,Cinema Lumière,33.01,Entertainment
-2025-02-08,Onibus Urbano,14.45,Transportation
+2025-05-08,Cinema Lumière,33.01,Others
+2025-02-08,Onibus Urbano,14.45,Others
 2025-08-08,Drogaria São Paulo,48.22,Drugstore
 2025-01-02,Savegnago,72.06,Supermarket
 2025-04-05,Uber,33.58,Transportation
-2025-10-22,Cinema Lumière,5.64,Entertainment
+2025-10-22,Cinema Lumière,5.64,Others
 2024-11-04,Uber,45.92,Transportation
 2025-04-20,Padaria Central,75.05,Others
 2025-06-09,Padaria Central,40.3,Others
@@ -458,9 +458,9 @@ date,establishment,amount,category
 2025-04-30,Drogaria São Paulo,70.17,Drugstore
 2025-09-29,Padaria Central,40.91,Others
 2025-03-28,Uber,52.95,Transportation
-2024-11-04,Cinema Lumière,87.05,Entertainment
+2024-11-04,Cinema Lumière,87.05,Others
 2025-08-19,Padaria Central,35.74,Others
-2024-12-22,Cinema Lumière,82.26,Entertainment
+2024-12-22,Cinema Lumière,82.26,Others
 2025-10-11,Uber,85.01,Transportation
 2025-03-04,Posto Shell,70.66,Others
 2025-05-21,Restaurante do Zé,98.82,Others
@@ -477,13 +477,13 @@ date,establishment,amount,category
 2025-03-11,Padaria Central,75.02,Others
 2025-07-28,Padaria Central,42.98,Others
 2024-12-22,Padaria Central,42.96,Others
-2025-10-21,Farmacia Droga Raia,65.47,Drugstore
+2025-10-21,Farmacia Droga Raia,65.47,Others
 2025-09-08,Uber,20.24,Transportation
 2024-11-15,Restaurante do Zé,71.62,Others
-2025-03-13,Cinema Lumière,99.21,Entertainment
+2025-03-13,Cinema Lumière,99.21,Others
 2024-12-05,Uber,62.88,Transportation
 2025-02-21,Restaurante do Zé,94.54,Others
-2025-02-04,Onibus Urbano,83.94,Transportation
+2025-02-04,Onibus Urbano,83.94,Others
 2025-02-05,Uber,76.44,Transportation
 2025-04-03,99Pop,60.52,Transportation
 2024-12-30,Padaria Central,49.59,Others
@@ -495,46 +495,46 @@ date,establishment,amount,category
 2024-12-25,99Pop,29.24,Transportation
 2025-02-26,Padaria Central,83.97,Others
 2025-09-20,Restaurante do Zé,81.7,Others
-2025-07-17,Cinema Lumière,37.54,Entertainment
-2025-09-17,Onibus Urbano,84.17,Transportation
+2025-07-17,Cinema Lumière,37.54,Others
+2025-09-17,Onibus Urbano,84.17,Others
 2025-01-03,Uber,87.23,Transportation
-2025-08-16,Onibus Urbano,61.19,Transportation
+2025-08-16,Onibus Urbano,61.19,Others
 2025-06-19,Jaú Serve,82.38,Supermarket
 2024-11-23,Drogaria São Paulo,63.68,Drugstore
 2025-10-18,Padaria Central,71.02,Others
 2025-05-08,Padaria Central,72.86,Others
 2025-01-17,Jaú Serve,44.32,Supermarket
-2025-03-22,Cinema Lumière,53.99,Entertainment
+2025-03-22,Cinema Lumière,53.99,Others
 2025-10-28,99Pop,29.43,Transportation
 2025-05-15,Restaurante do Zé,32.97,Others
-2025-10-25,Cinema Lumière,37.41,Entertainment
+2025-10-25,Cinema Lumière,37.41,Others
 2025-08-01,Uber,22.15,Transportation
-2025-05-15,Cinema Lumière,97.88,Entertainment
+2025-05-15,Cinema Lumière,97.88,Others
 2024-12-26,Padaria Central,16.75,Others
 2025-02-14,Posto Shell,40.69,Others
 2025-08-16,Posto Shell,77.89,Others
 2025-04-22,Uber,92.29,Transportation
 2025-06-04,Savegnago,77.08,Supermarket
 2025-04-12,Padaria Central,96.44,Others
-2024-12-17,Cinema Lumière,26.02,Entertainment
-2025-09-09,Farmacia Droga Raia,81.59,Drugstore
+2024-12-17,Cinema Lumière,26.02,Others
+2025-09-09,Farmacia Droga Raia,81.59,Others
 2025-07-27,Padaria Central,93.66,Others
 2025-06-26,99Pop,26.18,Transportation
 2025-01-10,Uber,55.9,Transportation
-2025-03-12,Onibus Urbano,94.28,Transportation
+2025-03-12,Onibus Urbano,94.28,Others
 2025-08-01,Jaú Serve,94.76,Supermarket
 2025-09-10,Uber,32.72,Transportation
 2025-08-31,Restaurante do Zé,33.79,Others
 2025-06-26,Savegnago,6.82,Supermarket
 2024-12-28,99Pop,66.09,Transportation
-2024-12-30,Onibus Urbano,74.42,Transportation
+2024-12-30,Onibus Urbano,74.42,Others
 2025-04-16,Drogaria São Paulo,6.59,Drugstore
 2025-06-03,Padaria Central,18.58,Others
 2024-12-20,Jaú Serve,6.76,Supermarket
 2025-03-01,Posto Shell,23.3,Others
-2025-03-14,Onibus Urbano,10.82,Transportation
+2025-03-14,Onibus Urbano,10.82,Others
 2025-08-06,Savegnago,74.49,Supermarket
-2025-10-01,Cinema Lumière,26.81,Entertainment
+2025-10-01,Cinema Lumière,26.81,Others
 2025-04-30,99Pop,36.39,Transportation
 2024-11-23,Posto Shell,90.93,Others
 2025-08-13,Savegnago,19.47,Supermarket
@@ -543,38 +543,38 @@ date,establishment,amount,category
 2025-01-19,Restaurante do Zé,85.27,Others
 2024-11-29,Jaú Serve,95.31,Supermarket
 2025-01-14,Drogaria São Paulo,50.02,Drugstore
-2024-11-21,Farmacia Droga Raia,46.93,Drugstore
-2024-11-03,Onibus Urbano,77.81,Transportation
-2025-01-10,Onibus Urbano,73.98,Transportation
+2024-11-21,Farmacia Droga Raia,46.93,Others
+2024-11-03,Onibus Urbano,77.81,Others
+2025-01-10,Onibus Urbano,73.98,Others
 2025-10-07,Savegnago,15.02,Supermarket
-2025-01-24,Onibus Urbano,25.08,Transportation
+2025-01-24,Onibus Urbano,25.08,Others
 2025-06-30,Posto Shell,82.98,Others
-2025-05-20,Cinema Lumière,56.68,Entertainment
+2025-05-20,Cinema Lumière,56.68,Others
 2025-09-05,99Pop,25.49,Transportation
-2025-02-25,Cinema Lumière,33.75,Entertainment
+2025-02-25,Cinema Lumière,33.75,Others
 2025-03-28,Drogaria São Paulo,30.09,Drugstore
-2025-03-15,Cinema Lumière,61.48,Entertainment
-2025-09-18,Farmacia Droga Raia,81.08,Drugstore
+2025-03-15,Cinema Lumière,61.48,Others
+2025-09-18,Farmacia Droga Raia,81.08,Others
 2025-06-30,Drogaria São Paulo,71.94,Drugstore
-2024-11-20,Cinema Lumière,40.99,Entertainment
-2025-07-07,Farmacia Droga Raia,81.78,Drugstore
+2024-11-20,Cinema Lumière,40.99,Others
+2025-07-07,Farmacia Droga Raia,81.78,Others
 2025-03-10,Savegnago,11.13,Supermarket
 2025-09-02,Uber,51.18,Transportation
-2025-09-27,Farmacia Droga Raia,19.29,Drugstore
+2025-09-27,Farmacia Droga Raia,19.29,Others
 2025-10-30,Posto Shell,21.58,Others
 2024-11-08,Restaurante do Zé,91.08,Others
-2025-06-27,Farmacia Droga Raia,9.22,Drugstore
+2025-06-27,Farmacia Droga Raia,9.22,Others
 2025-09-26,Uber,53.0,Transportation
 2025-06-19,Posto Shell,44.92,Others
 2025-03-10,Drogaria São Paulo,25.51,Drugstore
 2025-10-20,Drogaria São Paulo,27.48,Drugstore
-2025-01-06,Farmacia Droga Raia,47.74,Drugstore
-2025-03-23,Onibus Urbano,85.01,Transportation
+2025-01-06,Farmacia Droga Raia,47.74,Others
+2025-03-23,Onibus Urbano,85.01,Others
 2025-06-02,Posto Shell,39.98,Others
 2025-07-26,Padaria Central,32.74,Others
 2025-09-01,Padaria Central,49.63,Others
 2025-09-11,Drogaria São Paulo,23.95,Drugstore
-2025-03-22,Onibus Urbano,26.11,Transportation
+2025-03-22,Onibus Urbano,26.11,Others
 2025-06-22,Drogaria São Paulo,86.39,Drugstore
 2025-05-24,Drogaria São Paulo,21.02,Drugstore
 2025-06-01,Posto Shell,75.28,Others
@@ -592,31 +592,31 @@ date,establishment,amount,category
 2025-06-17,Padaria Central,99.6,Others
 2025-07-23,Drogaria São Paulo,19.71,Drugstore
 2024-11-30,Posto Shell,7.66,Others
-2025-01-29,Farmacia Droga Raia,66.45,Drugstore
+2025-01-29,Farmacia Droga Raia,66.45,Others
 2024-11-09,Posto Shell,82.02,Others
 2025-05-23,Padaria Central,47.76,Others
 2025-01-09,Jaú Serve,25.72,Supermarket
 2025-04-20,Restaurante do Zé,16.32,Others
 2025-08-31,Drogaria São Paulo,83.97,Drugstore
-2025-04-25,Cinema Lumière,41.93,Entertainment
+2025-04-25,Cinema Lumière,41.93,Others
 2025-02-03,Drogaria São Paulo,90.79,Drugstore
 2025-08-20,Posto Shell,64.47,Others
 2025-04-14,Uber,39.31,Transportation
-2025-10-20,Farmacia Droga Raia,9.64,Drugstore
-2025-01-06,Cinema Lumière,71.72,Entertainment
+2025-10-20,Farmacia Droga Raia,9.64,Others
+2025-01-06,Cinema Lumière,71.72,Others
 2025-09-30,Drogaria São Paulo,71.86,Drugstore
 2025-10-02,Uber,93.19,Transportation
-2025-05-24,Onibus Urbano,61.22,Transportation
+2025-05-24,Onibus Urbano,61.22,Others
 2025-09-16,Padaria Central,86.99,Others
 2025-08-12,Drogaria São Paulo,14.11,Drugstore
 2024-11-16,Padaria Central,42.67,Others
 2025-10-10,Jaú Serve,20.57,Supermarket
-2025-05-10,Onibus Urbano,92.94,Transportation
+2025-05-10,Onibus Urbano,92.94,Others
 2024-12-01,Posto Shell,32.83,Others
 2025-04-28,Uber,27.56,Transportation
-2025-05-04,Cinema Lumière,85.41,Entertainment
+2025-05-04,Cinema Lumière,85.41,Others
 2025-01-01,Drogaria São Paulo,52.6,Drugstore
-2025-09-09,Farmacia Droga Raia,43.53,Drugstore
+2025-09-09,Farmacia Droga Raia,43.53,Others
 2024-12-18,Uber,61.73,Transportation
 2025-01-26,Savegnago,38.01,Supermarket
 2025-06-09,Jaú Serve,72.05,Supermarket
@@ -629,27 +629,27 @@ date,establishment,amount,category
 2025-06-10,Uber,38.96,Transportation
 2024-11-03,99Pop,62.23,Transportation
 2025-09-21,Jaú Serve,52.32,Supermarket
-2025-06-05,Farmacia Droga Raia,18.63,Drugstore
-2024-11-25,Onibus Urbano,76.27,Transportation
+2025-06-05,Farmacia Droga Raia,18.63,Others
+2024-11-25,Onibus Urbano,76.27,Others
 2025-05-11,Uber,45.87,Transportation
 2025-04-04,Savegnago,56.61,Supermarket
 2025-01-13,Posto Shell,76.75,Others
-2025-05-31,Farmacia Droga Raia,37.47,Drugstore
-2025-02-13,Onibus Urbano,28.31,Transportation
-2025-02-03,Cinema Lumière,44.94,Entertainment
+2025-05-31,Farmacia Droga Raia,37.47,Others
+2025-02-13,Onibus Urbano,28.31,Others
+2025-02-03,Cinema Lumière,44.94,Others
 2025-07-04,Savegnago,15.89,Supermarket
 2025-03-11,99Pop,82.82,Transportation
-2025-04-16,Cinema Lumière,48.71,Entertainment
+2025-04-16,Cinema Lumière,48.71,Others
 2024-11-07,Restaurante do Zé,76.42,Others
 2025-09-01,99Pop,42.24,Transportation
 2025-07-16,Padaria Central,93.28,Others
-2025-07-25,Farmacia Droga Raia,66.19,Drugstore
+2025-07-25,Farmacia Droga Raia,66.19,Others
 2025-06-01,99Pop,41.74,Transportation
 2025-04-03,Uber,81.52,Transportation
 2025-03-21,Jaú Serve,9.24,Supermarket
-2024-11-26,Cinema Lumière,34.04,Entertainment
+2024-11-26,Cinema Lumière,34.04,Others
 2025-01-24,Savegnago,72.45,Supermarket
-2025-04-23,Onibus Urbano,49.84,Transportation
+2025-04-23,Onibus Urbano,49.84,Others
 2025-04-24,Drogaria São Paulo,32.93,Drugstore
 2024-12-17,Drogaria São Paulo,72.8,Drugstore
 2025-06-02,99Pop,45.36,Transportation
@@ -657,7 +657,7 @@ date,establishment,amount,category
 2024-11-22,Savegnago,69.1,Supermarket
 2025-01-14,Drogaria São Paulo,89.5,Drugstore
 2024-11-14,Restaurante do Zé,11.58,Others
-2025-06-12,Onibus Urbano,8.31,Transportation
+2025-06-12,Onibus Urbano,8.31,Others
 2025-04-23,Restaurante do Zé,35.69,Others
 2025-10-12,Padaria Central,58.44,Others
 2025-02-13,Drogaria São Paulo,37.52,Drugstore
@@ -665,71 +665,71 @@ date,establishment,amount,category
 2025-10-29,Savegnago,91.11,Supermarket
 2025-10-04,Padaria Central,69.26,Others
 2025-03-03,99Pop,13.49,Transportation
-2025-03-31,Onibus Urbano,65.59,Transportation
-2025-01-04,Farmacia Droga Raia,53.73,Drugstore
+2025-03-31,Onibus Urbano,65.59,Others
+2025-01-04,Farmacia Droga Raia,53.73,Others
 2025-04-05,Drogaria São Paulo,55.49,Drugstore
 2025-07-17,Uber,96.35,Transportation
 2025-04-16,Posto Shell,61.82,Others
-2025-10-23,Farmacia Droga Raia,45.11,Drugstore
-2025-09-11,Onibus Urbano,73.33,Transportation
+2025-10-23,Farmacia Droga Raia,45.11,Others
+2025-09-11,Onibus Urbano,73.33,Others
 2024-12-31,Savegnago,54.68,Supermarket
 2025-06-30,Jaú Serve,7.24,Supermarket
-2024-12-24,Onibus Urbano,81.75,Transportation
-2025-01-11,Farmacia Droga Raia,41.15,Drugstore
+2024-12-24,Onibus Urbano,81.75,Others
+2025-01-11,Farmacia Droga Raia,41.15,Others
 2025-04-30,Restaurante do Zé,58.06,Others
 2025-02-06,99Pop,59.76,Transportation
 2025-03-15,Posto Shell,99.52,Others
 2025-07-17,Padaria Central,63.85,Others
 2025-08-24,Jaú Serve,74.5,Supermarket
-2025-03-01,Cinema Lumière,91.55,Entertainment
+2025-03-01,Cinema Lumière,91.55,Others
 2025-01-17,Uber,61.74,Transportation
 2025-05-05,Savegnago,9.08,Supermarket
 2024-11-28,Savegnago,42.76,Supermarket
 2024-12-02,Uber,35.64,Transportation
 2025-02-23,Drogaria São Paulo,25.33,Drugstore
-2025-07-13,Farmacia Droga Raia,47.76,Drugstore
+2025-07-13,Farmacia Droga Raia,47.76,Others
 2024-12-14,Savegnago,50.37,Supermarket
 2025-10-04,Jaú Serve,65.31,Supermarket
-2025-09-25,Farmacia Droga Raia,98.57,Drugstore
-2024-11-01,Farmacia Droga Raia,45.92,Drugstore
+2025-09-25,Farmacia Droga Raia,98.57,Others
+2024-11-01,Farmacia Droga Raia,45.92,Others
 2025-03-29,Jaú Serve,56.92,Supermarket
-2025-01-23,Cinema Lumière,8.15,Entertainment
-2025-10-25,Onibus Urbano,10.3,Transportation
+2025-01-23,Cinema Lumière,8.15,Others
+2025-10-25,Onibus Urbano,10.3,Others
 2025-10-20,Jaú Serve,7.56,Supermarket
-2024-12-04,Cinema Lumière,42.37,Entertainment
+2024-12-04,Cinema Lumière,42.37,Others
 2025-10-11,Posto Shell,15.32,Others
 2024-11-13,Uber,82.09,Transportation
-2025-06-23,Onibus Urbano,86.49,Transportation
+2025-06-23,Onibus Urbano,86.49,Others
 2025-09-20,Jaú Serve,99.77,Supermarket
 2025-08-09,Drogaria São Paulo,55.64,Drugstore
 2025-09-07,Padaria Central,61.99,Others
-2025-09-28,Farmacia Droga Raia,42.63,Drugstore
+2025-09-28,Farmacia Droga Raia,42.63,Others
 2025-06-19,99Pop,17.79,Transportation
 2025-07-29,Uber,21.2,Transportation
 2025-02-03,Posto Shell,55.68,Others
 2025-04-08,Padaria Central,87.65,Others
 2024-11-19,Jaú Serve,17.2,Supermarket
 2025-05-30,Restaurante do Zé,10.46,Others
-2024-11-29,Farmacia Droga Raia,62.53,Drugstore
+2024-11-29,Farmacia Droga Raia,62.53,Others
 2025-03-10,Restaurante do Zé,20.84,Others
 2025-05-11,99Pop,70.07,Transportation
-2025-04-22,Farmacia Droga Raia,78.95,Drugstore
+2025-04-22,Farmacia Droga Raia,78.95,Others
 2025-09-27,Savegnago,81.01,Supermarket
 2025-02-13,99Pop,88.33,Transportation
 2025-08-19,Drogaria São Paulo,87.49,Drugstore
 2025-03-13,Padaria Central,29.41,Others
-2025-10-21,Onibus Urbano,13.14,Transportation
+2025-10-21,Onibus Urbano,13.14,Others
 2024-11-27,Uber,72.41,Transportation
-2025-03-14,Cinema Lumière,77.94,Entertainment
+2025-03-14,Cinema Lumière,77.94,Others
 2024-12-21,Restaurante do Zé,46.09,Others
 2025-04-27,Restaurante do Zé,21.4,Others
-2024-11-04,Farmacia Droga Raia,11.97,Drugstore
+2024-11-04,Farmacia Droga Raia,11.97,Others
 2025-09-01,Padaria Central,12.23,Others
-2025-01-16,Cinema Lumière,86.56,Entertainment
+2025-01-16,Cinema Lumière,86.56,Others
 2025-03-21,Savegnago,6.8,Supermarket
 2025-07-16,Savegnago,98.43,Supermarket
 2025-02-21,Restaurante do Zé,40.88,Others
-2025-09-17,Onibus Urbano,24.73,Transportation
+2025-09-17,Onibus Urbano,24.73,Others
 2024-11-27,Jaú Serve,89.57,Supermarket
 2025-10-07,Posto Shell,53.39,Others
 2025-04-24,Drogaria São Paulo,94.71,Drugstore
@@ -743,35 +743,35 @@ date,establishment,amount,category
 2025-08-26,Drogaria São Paulo,66.77,Drugstore
 2025-03-10,Jaú Serve,14.26,Supermarket
 2024-12-13,Restaurante do Zé,64.98,Others
-2025-05-08,Farmacia Droga Raia,18.59,Drugstore
+2025-05-08,Farmacia Droga Raia,18.59,Others
 2025-08-20,Drogaria São Paulo,28.98,Drugstore
 2024-11-03,Savegnago,62.13,Supermarket
 2025-01-19,Posto Shell,87.63,Others
 2025-09-30,99Pop,28.66,Transportation
 2025-05-31,99Pop,52.43,Transportation
 2025-10-02,Jaú Serve,92.14,Supermarket
-2025-09-23,Farmacia Droga Raia,80.64,Drugstore
+2025-09-23,Farmacia Droga Raia,80.64,Others
 2025-02-07,Restaurante do Zé,5.42,Others
 2025-09-05,Padaria Central,87.8,Others
 2025-03-11,Jaú Serve,34.71,Supermarket
 2025-07-26,Savegnago,41.16,Supermarket
 2025-03-23,Savegnago,13.92,Supermarket
 2025-02-12,Posto Shell,83.5,Others
-2025-06-25,Farmacia Droga Raia,79.46,Drugstore
+2025-06-25,Farmacia Droga Raia,79.46,Others
 2025-05-10,Posto Shell,35.72,Others
 2024-12-05,Jaú Serve,86.65,Supermarket
-2025-04-25,Cinema Lumière,46.4,Entertainment
+2025-04-25,Cinema Lumière,46.4,Others
 2025-10-26,Savegnago,54.98,Supermarket
 2025-05-25,Drogaria São Paulo,39.92,Drugstore
 2025-03-12,Drogaria São Paulo,66.69,Drugstore
 2025-06-03,Drogaria São Paulo,96.22,Drugstore
 2025-06-30,Drogaria São Paulo,79.9,Drugstore
-2025-10-26,Cinema Lumière,83.26,Entertainment
+2025-10-26,Cinema Lumière,83.26,Others
 2024-11-17,Savegnago,55.37,Supermarket
 2025-10-03,Uber,6.72,Transportation
 2025-03-05,Drogaria São Paulo,63.23,Drugstore
 2025-08-16,Drogaria São Paulo,19.29,Drugstore
-2025-02-05,Farmacia Droga Raia,89.18,Drugstore
+2025-02-05,Farmacia Droga Raia,89.18,Others
 2025-08-14,Posto Shell,88.02,Others
 2025-07-20,Restaurante do Zé,90.1,Others
 2025-03-21,Padaria Central,16.7,Others
@@ -779,54 +779,54 @@ date,establishment,amount,category
 2025-01-23,99Pop,71.51,Transportation
 2025-02-22,Savegnago,54.87,Supermarket
 2025-05-08,Posto Shell,69.44,Others
-2025-09-26,Farmacia Droga Raia,87.65,Drugstore
-2025-06-25,Cinema Lumière,8.2,Entertainment
+2025-09-26,Farmacia Droga Raia,87.65,Others
+2025-06-25,Cinema Lumière,8.2,Others
 2024-12-31,Drogaria São Paulo,93.26,Drugstore
 2025-08-11,Restaurante do Zé,22.94,Others
-2025-06-11,Farmacia Droga Raia,93.77,Drugstore
-2025-03-19,Farmacia Droga Raia,28.91,Drugstore
-2025-02-09,Cinema Lumière,46.61,Entertainment
+2025-06-11,Farmacia Droga Raia,93.77,Others
+2025-03-19,Farmacia Droga Raia,28.91,Others
+2025-02-09,Cinema Lumière,46.61,Others
 2025-09-30,Uber,36.97,Transportation
 2025-03-20,99Pop,23.41,Transportation
 2025-01-24,Drogaria São Paulo,75.46,Drugstore
 2025-07-23,Drogaria São Paulo,93.83,Drugstore
-2025-05-16,Farmacia Droga Raia,34.72,Drugstore
+2025-05-16,Farmacia Droga Raia,34.72,Others
 2025-06-07,Posto Shell,31.57,Others
 2025-04-07,Drogaria São Paulo,47.19,Drugstore
 2025-03-30,Restaurante do Zé,52.87,Others
 2025-10-04,Padaria Central,91.01,Others
 2025-02-08,Drogaria São Paulo,31.43,Drugstore
 2025-02-28,Jaú Serve,12.69,Supermarket
-2025-07-27,Onibus Urbano,54.6,Transportation
-2025-02-11,Onibus Urbano,92.33,Transportation
+2025-07-27,Onibus Urbano,54.6,Others
+2025-02-11,Onibus Urbano,92.33,Others
 2025-10-26,99Pop,91.09,Transportation
 2025-10-19,Savegnago,38.46,Supermarket
 2025-03-24,Uber,5.46,Transportation
 2025-08-13,Padaria Central,16.37,Others
 2025-01-11,Savegnago,56.57,Supermarket
 2025-02-21,Drogaria São Paulo,78.87,Drugstore
-2025-08-09,Farmacia Droga Raia,69.93,Drugstore
+2025-08-09,Farmacia Droga Raia,69.93,Others
 2025-04-20,Jaú Serve,71.83,Supermarket
 2025-01-06,Drogaria São Paulo,36.83,Drugstore
 2025-07-06,Posto Shell,60.99,Others
 2025-02-13,Padaria Central,77.66,Others
-2025-04-21,Cinema Lumière,46.59,Entertainment
-2024-12-24,Cinema Lumière,30.49,Entertainment
+2025-04-21,Cinema Lumière,46.59,Others
+2024-12-24,Cinema Lumière,30.49,Others
 2025-08-21,Jaú Serve,31.92,Supermarket
 2025-02-20,99Pop,12.22,Transportation
-2025-08-28,Onibus Urbano,71.33,Transportation
+2025-08-28,Onibus Urbano,71.33,Others
 2025-01-06,Restaurante do Zé,75.61,Others
 2025-04-19,Posto Shell,8.85,Others
 2025-01-14,Savegnago,10.19,Supermarket
-2025-10-13,Farmacia Droga Raia,14.5,Drugstore
+2025-10-13,Farmacia Droga Raia,14.5,Others
 2025-07-05,Savegnago,85.45,Supermarket
 2024-12-16,Restaurante do Zé,65.94,Others
 2025-03-24,Jaú Serve,65.25,Supermarket
-2024-12-07,Farmacia Droga Raia,31.57,Drugstore
+2024-12-07,Farmacia Droga Raia,31.57,Others
 2025-06-08,Padaria Central,72.33,Others
 2025-08-07,Padaria Central,82.4,Others
-2025-05-12,Cinema Lumière,60.68,Entertainment
-2025-03-05,Farmacia Droga Raia,28.6,Drugstore
+2025-05-12,Cinema Lumière,60.68,Others
+2025-03-05,Farmacia Droga Raia,28.6,Others
 2025-05-30,Drogaria São Paulo,65.88,Drugstore
 2025-03-17,Padaria Central,6.19,Others
 2025-07-17,99Pop,81.69,Transportation
@@ -836,17 +836,17 @@ date,establishment,amount,category
 2025-09-12,Padaria Central,72.85,Others
 2025-03-13,Drogaria São Paulo,64.87,Drugstore
 2025-05-01,Drogaria São Paulo,67.95,Drugstore
-2024-11-21,Cinema Lumière,16.42,Entertainment
-2025-07-02,Farmacia Droga Raia,42.55,Drugstore
-2024-11-05,Onibus Urbano,79.5,Transportation
-2025-01-20,Farmacia Droga Raia,22.61,Drugstore
-2025-07-23,Farmacia Droga Raia,57.03,Drugstore
+2024-11-21,Cinema Lumière,16.42,Others
+2025-07-02,Farmacia Droga Raia,42.55,Others
+2024-11-05,Onibus Urbano,79.5,Others
+2025-01-20,Farmacia Droga Raia,22.61,Others
+2025-07-23,Farmacia Droga Raia,57.03,Others
 2025-09-19,Jaú Serve,62.73,Supermarket
 2025-09-27,99Pop,62.79,Transportation
 2025-01-23,99Pop,45.93,Transportation
 2024-12-23,Uber,71.12,Transportation
 2024-12-05,Uber,26.12,Transportation
-2025-02-04,Farmacia Droga Raia,7.97,Drugstore
+2025-02-04,Farmacia Droga Raia,7.97,Others
 2025-01-03,Uber,46.73,Transportation
 2025-09-25,Posto Shell,11.05,Others
 2025-08-25,Drogaria São Paulo,13.08,Drugstore
@@ -855,38 +855,38 @@ date,establishment,amount,category
 2024-12-21,Drogaria São Paulo,33.46,Drugstore
 2025-01-20,Padaria Central,28.81,Others
 2024-12-03,99Pop,83.48,Transportation
-2025-01-01,Cinema Lumière,56.15,Entertainment
+2025-01-01,Cinema Lumière,56.15,Others
 2025-03-26,Jaú Serve,70.51,Supermarket
-2024-12-13,Onibus Urbano,53.87,Transportation
+2024-12-13,Onibus Urbano,53.87,Others
 2025-09-04,Uber,97.56,Transportation
 2025-01-09,Savegnago,16.41,Supermarket
 2025-04-22,Posto Shell,72.22,Others
-2025-06-21,Onibus Urbano,54.36,Transportation
+2025-06-21,Onibus Urbano,54.36,Others
 2025-05-28,99Pop,63.41,Transportation
-2025-07-16,Farmacia Droga Raia,6.49,Drugstore
+2025-07-16,Farmacia Droga Raia,6.49,Others
 2025-03-27,Jaú Serve,70.69,Supermarket
-2025-05-27,Onibus Urbano,10.09,Transportation
+2025-05-27,Onibus Urbano,10.09,Others
 2025-06-19,Drogaria São Paulo,99.92,Drugstore
 2025-03-18,99Pop,12.31,Transportation
-2024-11-21,Cinema Lumière,42.43,Entertainment
+2024-11-21,Cinema Lumière,42.43,Others
 2024-12-09,Padaria Central,42.53,Others
-2025-03-10,Onibus Urbano,96.16,Transportation
+2025-03-10,Onibus Urbano,96.16,Others
 2025-05-25,Padaria Central,11.23,Others
-2025-04-23,Onibus Urbano,82.96,Transportation
+2025-04-23,Onibus Urbano,82.96,Others
 2025-04-27,Posto Shell,97.26,Others
 2024-11-17,Padaria Central,89.95,Others
-2024-11-17,Cinema Lumière,70.95,Entertainment
-2025-07-09,Onibus Urbano,94.15,Transportation
+2024-11-17,Cinema Lumière,70.95,Others
+2025-07-09,Onibus Urbano,94.15,Others
 2024-11-17,Jaú Serve,88.6,Supermarket
-2025-06-30,Cinema Lumière,18.39,Entertainment
+2025-06-30,Cinema Lumière,18.39,Others
 2025-07-30,99Pop,68.39,Transportation
 2025-03-06,Uber,22.66,Transportation
-2025-09-27,Onibus Urbano,34.24,Transportation
-2025-05-03,Onibus Urbano,21.57,Transportation
+2025-09-27,Onibus Urbano,34.24,Others
+2025-05-03,Onibus Urbano,21.57,Others
 2025-10-27,Uber,12.6,Transportation
 2024-12-19,99Pop,50.92,Transportation
 2025-09-05,Savegnago,92.68,Supermarket
-2025-06-18,Onibus Urbano,67.91,Transportation
+2025-06-18,Onibus Urbano,67.91,Others
 2025-07-17,Savegnago,87.74,Supermarket
 2025-06-24,Uber,7.48,Transportation
 2025-09-27,Restaurante do Zé,80.78,Others
@@ -897,18 +897,18 @@ date,establishment,amount,category
 2025-05-29,Restaurante do Zé,28.04,Others
 2025-03-18,99Pop,7.93,Transportation
 2025-06-18,Padaria Central,5.94,Others
-2025-05-04,Onibus Urbano,60.85,Transportation
+2025-05-04,Onibus Urbano,60.85,Others
 2025-03-15,Posto Shell,70.06,Others
-2025-09-29,Farmacia Droga Raia,52.35,Drugstore
+2025-09-29,Farmacia Droga Raia,52.35,Others
 2025-08-14,Savegnago,50.0,Supermarket
 2024-12-05,Savegnago,40.53,Supermarket
-2025-04-02,Onibus Urbano,50.66,Transportation
+2025-04-02,Onibus Urbano,50.66,Others
 2025-07-22,Padaria Central,78.23,Others
 2025-04-24,Uber,41.42,Transportation
 2025-01-08,Savegnago,37.83,Supermarket
 2025-04-15,Savegnago,12.73,Supermarket
 2025-05-12,99Pop,86.4,Transportation
-2025-10-11,Onibus Urbano,57.75,Transportation
+2025-10-11,Onibus Urbano,57.75,Others
 2025-04-22,Jaú Serve,6.72,Supermarket
 2025-07-27,Posto Shell,74.9,Others
 2025-05-19,Restaurante do Zé,32.93,Others
@@ -923,65 +923,65 @@ date,establishment,amount,category
 2024-12-18,99Pop,85.09,Transportation
 2025-02-14,Padaria Central,66.03,Others
 2024-11-22,Drogaria São Paulo,10.19,Drugstore
-2025-08-15,Onibus Urbano,80.57,Transportation
+2025-08-15,Onibus Urbano,80.57,Others
 2025-05-07,Restaurante do Zé,89.54,Others
 2024-11-01,Posto Shell,18.39,Others
-2025-09-13,Cinema Lumière,95.64,Entertainment
+2025-09-13,Cinema Lumière,95.64,Others
 2024-12-11,Uber,43.81,Transportation
 2025-02-18,Drogaria São Paulo,44.24,Drugstore
-2025-07-13,Cinema Lumière,50.48,Entertainment
+2025-07-13,Cinema Lumière,50.48,Others
 2025-05-20,Restaurante do Zé,70.25,Others
 2025-01-12,Jaú Serve,29.55,Supermarket
 2025-02-06,99Pop,10.39,Transportation
 2024-12-11,Padaria Central,84.14,Others
-2025-06-26,Onibus Urbano,21.57,Transportation
-2024-12-04,Cinema Lumière,69.33,Entertainment
+2025-06-26,Onibus Urbano,21.57,Others
+2024-12-04,Cinema Lumière,69.33,Others
 2025-05-25,Restaurante do Zé,94.44,Others
 2025-06-23,Savegnago,70.68,Supermarket
-2025-04-23,Cinema Lumière,70.36,Entertainment
+2025-04-23,Cinema Lumière,70.36,Others
 2025-03-14,99Pop,43.74,Transportation
 2024-12-20,Posto Shell,95.53,Others
 2025-03-05,Restaurante do Zé,65.4,Others
 2025-08-13,Posto Shell,18.86,Others
-2024-11-16,Cinema Lumière,46.35,Entertainment
+2024-11-16,Cinema Lumière,46.35,Others
 2025-05-04,Savegnago,40.56,Supermarket
 2025-05-27,Uber,50.74,Transportation
 2024-11-10,99Pop,84.49,Transportation
-2025-09-29,Farmacia Droga Raia,27.23,Drugstore
-2025-05-15,Farmacia Droga Raia,52.06,Drugstore
+2025-09-29,Farmacia Droga Raia,27.23,Others
+2025-05-15,Farmacia Droga Raia,52.06,Others
 2025-06-01,Restaurante do Zé,16.28,Others
 2025-09-22,Padaria Central,56.86,Others
 2024-12-27,Padaria Central,72.11,Others
 2025-06-15,Jaú Serve,87.28,Supermarket
 2025-07-25,Uber,7.87,Transportation
-2025-08-23,Onibus Urbano,36.59,Transportation
+2025-08-23,Onibus Urbano,36.59,Others
 2025-09-14,99Pop,45.99,Transportation
-2025-04-11,Cinema Lumière,43.66,Entertainment
+2025-04-11,Cinema Lumière,43.66,Others
 2025-04-17,Uber,69.06,Transportation
 2025-03-13,Savegnago,20.56,Supermarket
-2025-05-05,Onibus Urbano,35.98,Transportation
+2025-05-05,Onibus Urbano,35.98,Others
 2025-02-09,Padaria Central,51.57,Others
-2025-02-24,Cinema Lumière,65.25,Entertainment
+2025-02-24,Cinema Lumière,65.25,Others
 2025-10-12,Savegnago,9.67,Supermarket
-2025-02-02,Farmacia Droga Raia,14.9,Drugstore
+2025-02-02,Farmacia Droga Raia,14.9,Others
 2024-11-13,Restaurante do Zé,97.51,Others
 2025-01-25,99Pop,63.55,Transportation
-2025-10-20,Onibus Urbano,57.04,Transportation
+2025-10-20,Onibus Urbano,57.04,Others
 2024-11-01,Jaú Serve,96.76,Supermarket
 2025-01-16,Uber,41.84,Transportation
 2025-10-18,Jaú Serve,34.66,Supermarket
 2025-02-13,Uber,28.18,Transportation
-2025-09-11,Farmacia Droga Raia,16.67,Drugstore
+2025-09-11,Farmacia Droga Raia,16.67,Others
 2025-06-01,Jaú Serve,93.05,Supermarket
 2024-11-17,Restaurante do Zé,64.15,Others
-2024-11-25,Onibus Urbano,91.25,Transportation
+2024-11-25,Onibus Urbano,91.25,Others
 2025-04-22,99Pop,12.58,Transportation
 2025-07-25,Savegnago,7.92,Supermarket
 2025-05-10,Padaria Central,35.44,Others
 2025-07-18,Uber,54.53,Transportation
 2025-09-23,Savegnago,87.22,Supermarket
-2025-07-18,Onibus Urbano,84.82,Transportation
-2025-05-07,Cinema Lumière,18.56,Entertainment
+2025-07-18,Onibus Urbano,84.82,Others
+2025-05-07,Cinema Lumière,18.56,Others
 2025-06-09,Drogaria São Paulo,79.23,Drugstore
 2025-10-30,Drogaria São Paulo,89.08,Drugstore
 2025-02-09,Posto Shell,61.7,Others
@@ -989,13 +989,13 @@ date,establishment,amount,category
 2025-09-05,Drogaria São Paulo,85.42,Drugstore
 2024-11-02,Restaurante do Zé,79.65,Others
 2025-05-25,Padaria Central,10.27,Others
-2025-08-21,Farmacia Droga Raia,65.35,Drugstore
+2025-08-21,Farmacia Droga Raia,65.35,Others
 2025-02-23,Uber,7.17,Transportation
 2025-03-26,Posto Shell,8.41,Others
 2025-08-08,Uber,12.15,Transportation
 2025-01-26,Drogaria São Paulo,5.91,Drugstore
-2025-03-15,Farmacia Droga Raia,98.91,Drugstore
+2025-03-15,Farmacia Droga Raia,98.91,Others
 2025-08-21,Posto Shell,93.49,Others
-2024-11-28,Farmacia Droga Raia,21.42,Drugstore
+2024-11-28,Farmacia Droga Raia,21.42,Others
 2025-03-16,Padaria Central,84.98,Others
-2024-11-06,Onibus Urbano,56.35,Transportation
+2024-11-06,Onibus Urbano,56.35,Others

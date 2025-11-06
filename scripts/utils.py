@@ -15,32 +15,24 @@ def clean_data(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-def create_category_mapping(df: pd.DataFrame) -> pd.DataFrame:
-    """Assign a category based on establishment name keywords."""
-    def map_category(name: str) -> str:
-        name = str(name).lower()
-        
-        # Supermarkets
-        if "jaú" in name or "savegnago" in name:
-            return "Supermarket"
-        
-        # Drugstores
-        if "drogaria" in name or "farmacia" in name:
-            return "Drugstore"
-        
-        # Entertainment
-        if "cinema" in name:
-            return "Entertainment"
-        
-        # Transportation
-        if any(x in name for x in ["uber", "99pop", "taxi", "bus", "ônibus"]):
-            return "Transportation"
-        
-        # Default
-        return "Others"
-
-    # Apply mapping
-    df["category"] = df["establishment"].apply(map_category)
+def create_category_mapping(df: pd.DataFrame, establishments_df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Assign a category to each establishment using a manual left join with a reference table.
+    The reference table must contain columns: 'establishment' and 'category'.
+    """
+    
+    # Convert the lookup table into a dictionary for fast access
+    lookup_dict = dict(zip(establishments_df["establishment"], establishments_df["category"]))
+    
+    # Build a new list of categories based on manual left join logic
+    categories = []
+    for est in df["establishment"]:
+        # Try to find an exact match in the lookup table
+        category = lookup_dict.get(est, None)
+        categories.append(category if category is not None else "Others")
+    
+    # Assign new column
+    df["category"] = categories
     return df
 
 def aggregate_expenses(df: pd.DataFrame) -> pd.DataFrame:
